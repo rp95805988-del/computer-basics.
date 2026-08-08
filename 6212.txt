@@ -1,0 +1,21 @@
+Web Designing & Publishing Practical Questions (July 2026)
+====================================================
+Q.1 HTML program to create a nested list containing the contents of a
+book
+Q.2 HTML program to display the polynomial expression
+4x3
+-2x3
+-2x + 7
+Q.3 create a <div> with a background color and inside it, highlight one
+word in red using a <span> tag
+Q.4 Create an HTML table showing following!
+ a) Days :- Monday to Friday
+ b) Meals :- Breakfast , Lunch, Dinner
+ c) Table style using CSS
+Q.5 Create an HTML program using “<frameset>” to divide the browser
+ Window into different frames and display separate HTML page in
+ each frame
+Q.6 Create an HTML program using “w3-row”. Display two rows: the first
+row with blue background showing “Total student : 150 “ and the
+second row with orange background showing “Present Students: 135”
+Q.7 Make order and unordered list by entering any three favorite fruits.
